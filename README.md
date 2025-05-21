@@ -1,7 +1,7 @@
 # Hospital-Operations-and-Performance
 
 ## Project Overview
-This data analysis project examines operational and performance metrics across 10 major U.S. hospitals, focusing on admissions, medical conditions, medications, insurance coverage, and treatment costs. By analyzing patterns
+This  project examines operational and performance metrics across 10 major U.S. hospitals, focusing on admissions, medical conditions, medications, insurance coverage, and treatment costs. By analyzing patterns
 in hospital data, this project aims to uncover valuable insights that can enhance healthcare decision-making, optimize treatment costs, and improve patient outcomes.
 Through systematic analysis of a comprehensive dataset covering 55,500 patients, we've identified key trends in healthcare delivery, patient demographics, diagnostic results, and billing patterns that can inform strategic 
 decisions in hospital management and healthcare policy.
